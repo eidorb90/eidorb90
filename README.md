@@ -4,9 +4,9 @@
 I'm passionate about coding, AI/ML, and building cool projects. I enjoy learning new technologies and applying them to solve real-world problems. When I'm not coding, you can find me gaming or golfing!!
 
 ## 🌱 Currently Learning
-- Machine Learning & AI Model Deployment
+- Machine Learning
 - Python (Building ML models from scratch)
-- JS (and other webdev)
+- TS/JS (and other webdev like react/react-native)
 
 ## 💞️ Looking to Collaborate On
 - Really anything!
