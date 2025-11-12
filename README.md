@@ -13,7 +13,7 @@ I'm passionate about coding, AI/ML, and building cool projects. I enjoy learning
 
 
 ## 📫 How to Reach Me
-Feel free to connect with me on GitHub or drop a message!
+Feel free to send me an email any time at Brodie@brodie-rogers.com or you can find me on discord at eidorb90
 
 ## ⚡ Fun Fact
 I could talk about video games and coding all day long! 🎮💻
