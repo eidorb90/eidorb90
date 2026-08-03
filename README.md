@@ -8,6 +8,7 @@ I'm passionate about coding, AI/ML, and building cool projects. I enjoy learning
 - Python (Building ML models from scratch)
 - TS/JS (and other webdev like react/react-native)
 - Go
+- Java
 
 ## 💞️ Looking to Collaborate On
 - Really anything!
