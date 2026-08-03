@@ -15,7 +15,7 @@ I'm passionate about coding, AI/ML, and building cool projects. I enjoy learning
 
 
 ## 📫 How to Reach Me
-Feel free to send me an email any time at Brodie@brodie-rogers.com
+Feel free to send me an email any time at brodie@aetherdev.dev
 
 ## ⚡ Fun Fact
 I could talk about video games and coding all day long! 🎮💻
