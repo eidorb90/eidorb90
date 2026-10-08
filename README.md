@@ -9,6 +9,7 @@ I'm passionate about coding, AI/ML, and building cool projects. I enjoy learning
 - TS/JS (and other webdev like react/react-native)
 - Go
 - Java
+- Rust
 
 ## 💞️ Looking to Collaborate On
 - Really anything!
